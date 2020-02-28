@@ -8,6 +8,7 @@ My name is Jose Luis Latorre and I have a passion for two things:
 - Software engineering
 - Martial Arts and Japanese culture
 
+
 ### But.. why Samurai?
 Samurai were living according to strong ethical principles, defenders of what's right, efficient in solving problems with a simple cut and also followed the Bushido codes of martial principles. 
 They practiced and practiced to become skilled where still righteous.
