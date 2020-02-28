@@ -12,5 +12,4 @@ I will be adding regularly interesting content, so feel free to let me know what
 
 
 Hope to see you soon!
-
 Jose
