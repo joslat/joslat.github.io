@@ -6,13 +6,12 @@ bigimg: /img/path.jpg
 tags:
   - API
   - Azure
-published: true
+published: false
 date: '2020-02-29'
 ---
 
 **It all began last year..**
-
-## Here is a secondary heading
+## I attended a user group meeting of the local Zurich user group, 
 
 Here's a useless table:
 
