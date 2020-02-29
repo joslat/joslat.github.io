@@ -3,7 +3,12 @@ layout: post
 title: First post!
 image: /img/hello_world.jpeg
 bigimg: /img/lonesamuraiblack.png
-tags: [goals, Azure, Jose]
+tags:
+  - goals
+  - Azure
+  - Jose
+published: true
+date: '2020-02-28'
 ---
 
 This is my first post at Azure Samurai!
@@ -17,5 +22,3 @@ This post is my commitment. To me, to you.
  
 Hope to see you soon!  
 Jose
-
-
