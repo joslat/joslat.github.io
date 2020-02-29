@@ -26,7 +26,7 @@ Once you have that, you can let yourself flow.
 
 
 ### And Azure?
-I have been with Microsoft technology for the most of my career, working with it and the people that empower it gives me a warmth taht other technologies do not. 
+I have been with Microsoft technology for the most of my career, working with it and the people that empower it gives me a warmth that other technologies do not. 
 I am focused since 2019 professionally into Azure and I am liking it very much, specially the flexibility that provides to create structures that solve problems in new ways that since recently were not possible.
 It's my new sword, and what Samurai doesn't want a sword that is powerful and can cut mostly anything?
 
