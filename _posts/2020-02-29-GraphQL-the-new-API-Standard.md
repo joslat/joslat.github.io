@@ -6,7 +6,7 @@ bigimg: /img/path.jpg
 tags:
   - API
   - Azure
-published: false
+published: true
 date: '2020-02-29'
 ---
 
