@@ -105,7 +105,9 @@ So, to conclude take this with you:
 
 **Update: we have video..**
 I created a video for the API creation process so feel free to watch it and follow it along. Also note that this is the first time I do this..
+
 [![Follow-along video for the GraphQL API demo](http://img.youtube.com/vi/r1GPXDV6ets/0.jpg)](http://www.youtube.com/watch?v=r1GPXDV6ets "Follow-along video for the GraphQL API demo")
+
 Disclaimer: It's my first time doing this so do not expect great quality... I'd say it's close to "acceptable"
 
 **Till next time ;)**
