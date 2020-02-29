@@ -95,7 +95,7 @@ This time it was truly eye opener, so much has went through and in two days Mich
 **Cool Event here**: [Hot & Fast: Implementing GraphQL backend & Blazor frontend with HotChocolate!](https://www.meetup.com/dotnet-zurich/events/267725200/)
 
 So, to conclude take this with you:
-- be open. I believe we have to be open to new ideas, listen to people and specially to people that are willing to share. It's fun and you can end up learning something! 
+- Be open. I believe we have to be open to new ideas, listen to people and specially to people that are willing to share. It's fun and you can end up learning something! 
 - Listen to your peers, be open to discussions. This is part of the learning process where you solidify what you just learned. Question everything, challenge your peers, yourself and even, the speaker.
 - Go to user group meetings: you can learn (you probably will), you will have fun and if you talk to people you might end making friends.
 - Ah yes, GraphQL is cool and do check out HotChocolate ;)
