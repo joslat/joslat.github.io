@@ -11,7 +11,8 @@ date: '2020-02-29'
 ---
 
 **It all began last year..**
-## I attended a user group meeting and it all began.. 
+## I attended a user group meeting and my eyes opened to a new path ahead.. 
+Yes sounds too much prose but I was blind and not looking far away than what I already knew..
 It was by the end of October, on the local user group that I have been running forever a bit after I arrived  at Zurich.. I was not supposed to host the event as the team has grown in pretty talented people, check here the outstaning team behind the [.NET Zurich Developers User Group](https://www.dotnet-zurich.ch/).
 But one of my UG colleagues was ill and could not go and asked me to. It was a good decision to accept.
 Or come to our next talk, next Tuesday: [Hint: It's about GraphQL & Blazor](https://www.meetup.com/dotnet-zurich/events/267725200/)
@@ -86,8 +87,15 @@ It should look like this:
                     );
 ```
 
-## But there is more...
-In the next post we will build a blazor client and consume the API we just created. Sounds cool? Feel free to follow me!
+
+
+## Conclusion & Takeaways
+I believe we have to be open to new ideas, listen to people and specially to people that are willing to share. It's fun and you can end up learning something! 
+This time it was truly eye opener, so much has went through and in two days the speaker and me will be speaking again but adding Blazor to the equation. If we manage to get the demo "livecoding" down in time (that's on me so to say...) It's going to be real cool session so if you are around, come and join! 
+**Cool Event here**: [Hot & Fast: Implementing GraphQL backend & Blazor frontend with HotChocolate!](https://www.meetup.com/dotnet-zurich/events/267725200/)
+
+In the next post we will, together, build a blazor client and consume the API we just created. Sounds cool? Feel free to follow me!
+
 
 happy coding!  
 Jose
