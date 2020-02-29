@@ -39,6 +39,7 @@ I have been playing along with the implementation provided by the HotChocolate l
 **Let's build the Star Wars API..** It's a common practice to put this example and we get a ready-made template from the creators of the HotChocolate GraphQL API Implementation. It is created using a Pure Code-First approach which I particularly like, as it provides more control and clarity.
 
 We will Install the template with the following command:
+
 `dotnet new -i HotChocolate.Templates.StarWars`
 
 then we will crate the folder for the project and create the project.
@@ -50,6 +51,7 @@ cd starwars
 ```
 
 And we can run the project:
+
 `dotnet run --urls="http://localhost:5000"`
 
 Now, our API is hosted http://localhost:5000/graphql/. We can access our just baked GraphQL API with [a plain browser](http://localhost:5000/graphql/playground/)
@@ -75,8 +77,9 @@ You can also click on the "Schema" tab and explore the data. The documentation i
 **Some fine tuning**
 If you are lazy like me, you do not want to type the --urls parameter every.single.time... right? (and I always forget one of the "-" somehow.. LOL)
 
-We can open the project, go to Program.cs and we add the UseUrls fucntion right after the UseStartup.
+We can open the project, go to Program.cs and we add the UseUrls fucntion right after the UseStartup. 
 `.UseUrls("http://localhost:5000/")`
+
 It should look like this:
 ```
         public static IHostBuilder CreateHostBuilder(string[] args) =>
@@ -99,6 +102,11 @@ So, to conclude take this with you:
 - Listen to your peers, be open to discussions. This is part of the learning process where you solidify what you just learned. Question everything, challenge your peers, yourself and even, the speaker.
 - Go to user group meetings: you can learn (you probably will), you will have fun and if you talk to people you might end making friends.
 - Ah yes, GraphQL is cool and do check out HotChocolate ;)
+
+**Update: we have video..**
+I created a video for the API creation process so feel free to watch it and follow it along. Also note that this is the first time I do this..
+[![Follow-along video for the GraphQL API demo](http://img.youtube.com/vi/r1GPXDV6ets/0.jpg)](http://www.youtube.com/watch?v=r1GPXDV6ets "Follow-along video for the GraphQL API demo")
+Disclaimer: It's my first time doing this so do not expect great quality... I'd say it's close to "acceptable"
 
 **Till next time ;)**
 In the next post we will, together, build a blazor client and consume the API we just created. Sounds cool? Feel free to follow me!
