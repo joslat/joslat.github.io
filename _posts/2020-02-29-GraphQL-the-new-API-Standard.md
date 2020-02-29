@@ -91,6 +91,7 @@ It should look like this:
 
 ## Conclusion & Takeaways
 This time it was truly eye opener, so much has went through and in two days Michael Staib, one of the speakers of the previous event and me will be speaking again but adding Blazor to the equation. If we manage to get the demo "livecoding" down in time (that's on me so to say...) It's going to be real cool session so if you are around, come and join! 
+
 **Cool Event here**: [Hot & Fast: Implementing GraphQL backend & Blazor frontend with HotChocolate!](https://www.meetup.com/dotnet-zurich/events/267725200/)
 
 So, to conclude take this with you:
