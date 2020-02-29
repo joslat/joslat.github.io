@@ -104,7 +104,7 @@ So, to conclude take this with you:
 - Ah yes, GraphQL is cool and do check out HotChocolate ;)
 
 **Update: we have video..**
-I created a video for the API creation process so feel free to watch it and follow it along. Also note that this is the first time I do this..
+I created a video for the API creation process so feel free to watch it and follow it along. 
 
 [![Follow-along video for the GraphQL API demo](http://img.youtube.com/vi/r1GPXDV6ets/0.jpg)](http://www.youtube.com/watch?v=r1GPXDV6ets "Follow-along video for the GraphQL API demo")
 
