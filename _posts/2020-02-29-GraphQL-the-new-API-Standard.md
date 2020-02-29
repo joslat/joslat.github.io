@@ -90,10 +90,16 @@ It should look like this:
 
 
 ## Conclusion & Takeaways
-I believe we have to be open to new ideas, listen to people and specially to people that are willing to share. It's fun and you can end up learning something! 
-This time it was truly eye opener, so much has went through and in two days the speaker and me will be speaking again but adding Blazor to the equation. If we manage to get the demo "livecoding" down in time (that's on me so to say...) It's going to be real cool session so if you are around, come and join! 
+This time it was truly eye opener, so much has went through and in two days Michael Staib, one of the speakers of the previous event and me will be speaking again but adding Blazor to the equation. If we manage to get the demo "livecoding" down in time (that's on me so to say...) It's going to be real cool session so if you are around, come and join! 
 **Cool Event here**: [Hot & Fast: Implementing GraphQL backend & Blazor frontend with HotChocolate!](https://www.meetup.com/dotnet-zurich/events/267725200/)
 
+So, to conclude take this with you:
+- be open. I believe we have to be open to new ideas, listen to people and specially to people that are willing to share. It's fun and you can end up learning something! 
+- Listen to your peers, be open to discussions. This is part of the learning process where you solidify what you just learned. Question everything, challenge your peers, yourself and even, the speaker.
+- Go to user group meetings: you can learn (you probably will), you will have fun and if you talk to people you might end making friends.
+- Ah yes, GraphQL is cool and do check out HotChocolate ;)
+
+**Till next time ;)**
 In the next post we will, together, build a blazor client and consume the API we just created. Sounds cool? Feel free to follow me!
 
 
