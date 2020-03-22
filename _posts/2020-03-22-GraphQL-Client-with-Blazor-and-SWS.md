@@ -279,6 +279,8 @@ Then, coming back to the Blazor client app, we create a "Properties" folder and 
 }
 ```
 
+Note: Thanks to Michael Staib for this tip on adding the lauchSettings.json, as I was a bit lost when I was missing the right "--urls" option syntax completely.
+
 this will ensure that we do not try to reuse the  port 5000 - used by the StarWars API ;)
 
 Note: We could also use the "--urls" option with the url and port we want to enforce:
