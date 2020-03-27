@@ -2,8 +2,8 @@
 layout: post
 title: GraphQL, now with Blazor & StrawberryShake
 subtitle: Let's take the StarWars GraphQL API server and consume with Blazor, Shall we? 
+image: /img/02_StrawberryShake.JPG
 bigimage: /img/02_Hotchoco_n_Bl_n_SS.PNG
-image: /img/02_StrawberryShake.PNG
 tags:
   - API
   - Azure
