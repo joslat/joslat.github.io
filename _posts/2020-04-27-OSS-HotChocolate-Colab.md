@@ -48,17 +48,15 @@ Note: User is you, the valiant OSS Contributor. Team means the HotChocolate Team
 Note: If you are not a member, you will probably need to do a fork.
 
 ## 1. Pick an issue.
-For this example, we are going to get an existing issue, concretely this one: https://github.com/ChilliCream/hotchocolate/issues/1761   
-
+For this example, we are going to get an existing issue, concretely this one: [https://github.com/ChilliCream/hotchocolate/issues/1761](https://github.com/ChilliCream/hotchocolate/issues/1761)   
 ![01_Issue.PNG](https://github.com/joslat/joslat.github.io/blob/master/img/01_Issue.PNG?raw=true)
-
 
 
 Note, this was taken after discussing a simple task I could take with one of the HotChocolate Core Team components, Pascal Senn. A really nice guy.
 
 Otherwise, you can go to the list of open issues and pick the one you like and are confident you can take.  
-The project is hosted at github.com, at https://github.com/ChilliCream/hotchocolate  
-And the list of issues is here: https://github.com/ChilliCream/hotchocolate/issues  
+The project is hosted at github.com, at [https://github.com/ChilliCream/hotchocolate](https://github.com/ChilliCream/hotchocolate)
+And the list of issues is here: [https://github.com/ChilliCream/hotchocolate/issues](https://github.com/ChilliCream/hotchocolate/issues)  
 
 Last but not least you should get that issue assigned to you so nobody else starts working on it, that should be done by a Team member. It also is a good idea to subscribe to the notifications on this issue.
 
