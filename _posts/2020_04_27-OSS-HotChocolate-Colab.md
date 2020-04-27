@@ -2,7 +2,6 @@
 layout: post
 title: Contributing, A hands-on guideline for contributing to HotChocolate
 subtitle: Let's give a hand to these smart gentlemen..
-image: /img/chillicream-favicon.jpg
 tags:
   - OSS
   - Backend
