@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Contributing! A hands-on guideline for contributing to HotChocolate
-subtitle: Let's give a hand to these smart gentlement!
+title: Contributing, A hands-on guideline for contributing to HotChocolate
+subtitle: Let's give a hand to these smart gentlement..
 image: https://raw.githubusercontent.com/ChilliCream/hotchocolate/master/website/src/images/chillicream-favicon.png
 tags:
   - OS
@@ -17,8 +17,6 @@ date: '2020-04-27'
 I decided to jump into getting the GIST of Open Source in a hands-on way, this blog post will be my second PR into the Hot Chocolate project, located [here](https://github.com/ChilliCream/hotchocolate) ;)  
 And why not also publish it as a blog post, maybe I can motivate somebody else into jumping in and giving it a try! 
 And, if so, please let me know :)
-
-
 
 
 # Contributing!
@@ -38,7 +36,6 @@ It is quite generic, common sense, but also good to have a clear understanding.
 In addition, you can also check the How-To-Contribute guide for Open source located [here](https://opensource.guide/how-to-contribute/)
 
 ## The Flow
-
 The steps that we need to follow to collaborate are indeed simple:   
 1. Pick or have an issue asigned or also, create it yourself (User & Team).  
 2. Have some attributes added to the Issue such as Tags, Roadmap (Team).  
@@ -181,7 +178,3 @@ If any issue was caused that was overseen by running the tests locally then it w
 Aside from this once the PR is approved, it will be Merged into the main branch (or where the Issue or feature resides).  
 The Issue will be closed too.  
 And a Prerelease will be performed as well.
-
-
----
-
