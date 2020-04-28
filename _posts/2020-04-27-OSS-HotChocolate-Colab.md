@@ -128,7 +128,7 @@ or
 git checkout FIX-variable-stitching-v11
 ```
 
-And in the lower right corner of Visual Studio we should see that it reflects the current branch we are working in.
+And in the lower right corner of Visual Studio we should see that it reflects the current branch we are working in.   
 ![06_VisualStudio_WorkingBranch.PNG](https://github.com/joslat/joslat.github.io/blob/master/img/06_VisualStudio_WorkingBranch.PNG?raw=true)
 
 ### Building the solution
