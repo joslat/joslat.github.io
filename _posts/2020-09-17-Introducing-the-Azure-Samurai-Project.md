@@ -2,7 +2,8 @@
 layout: post
 title: Introducing the Azure Samurai Project
 subtitle: And now there is no turning back...
-bigimg: /img/AS_small.png
+image: /img/AS_small.png
+bigimg: /img/AS_fulltext.png
 tags:
   - Learning
   - HOL
