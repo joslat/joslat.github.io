@@ -2,7 +2,7 @@
 layout: post
 title: Introducing the Azure Samurai Project
 subtitle: And now there is no turning back...
-bigimg: /img/AS_fulltext.png
+bigimg: /img/AS_small.png
 tags:
   - Learning
   - HOL
@@ -12,8 +12,7 @@ published: true
 date: '2020-09-17'
 ---
 
-**There we go...**
-## Hi Friends, 
+## There we go...
 
 This is a costly Project for me, and there is a main reason which might sound surprising for some that know me - I am not comfortable with video & public speaking. Even I have done it in the past it still scares me.
 But, there is one way to get rid of that, right? ;) - hint: It’s called “Exposure Therapy”…
