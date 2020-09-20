@@ -46,6 +46,6 @@ Your feedback is needed, please do so by leaving a comment preferably or contact
 Let’s go together on this “martial path” towards becoming an Azure Samurai – together.   
 
 
-**Let’s do this!!**
+**Let’s do this!!**  
 Happy Azureing!   
 José, the Azure Samurai “wannabee”   
