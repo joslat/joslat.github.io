@@ -10,7 +10,7 @@ tags:
   - Video
   - Azure
 published: true
-date: '2020-09-17'
+date: '2020-09-19'
 ---
    
 ## There we go...   
@@ -23,7 +23,7 @@ I want to give it a try… and as I also like efficiency I thought of bringing i
 ## But, what's a Kata?   
 Kata means a structured way of doing things or practice them, in order to reach perfection. Kata is the center of Japanese sword training, a set of movements and forms, which is used on ALL the significant types of martial arts using a Japanese Sword, a Katana, including Iaido, Kenjutsu and Kendo (this last one I have practiced for a bit).   
 In martial arts, martial artists spend much of their time repeating a specified move or set of moves, aka drills... Gradually imprinting them into the brain, muscle memory until doing a kata happened flawlessly and like a natural reflex. (The name coincides and I sort of feel there is no coincidence…).   
-*Katas are one of the most efficient way to train a skill, as involves “learning by doing”, stated by Confucius quote “I hear and I forget. I see and I remember. I do and I understand.” *   
+**Katas are one of the most efficient way to train a skill, as involves “learning by doing”, stated by Confucius quote “I hear and I forget. I see and I remember. I do and I understand.”**   
    
 ## Coming back to the Azure Samurai story…   
 I thought that the Kata term goes along very well what I would like to create here, tailored to Azure with the goal of becoming an Azure Samurai. 
