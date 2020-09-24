@@ -45,6 +45,9 @@ Your feedback is needed, please do so by leaving a comment preferably or contact
    
 Let’s go together on this “martial path” towards becoming an Azure Samurai – together.   
 
+## What can you do for me?
+I would appreciate your support, so if you could go to the youtube channel I have set up for this and subscribe, that would do me a great deal as I need 200 subscribers to associate a custom name for it ;)
+[Azure Samurai YouTube Channel](https://www.youtube.com/channel/UCyIlMjwlhR2iokca6btIZng).
 
 **Let’s do this!!**  
 Happy Azureing!   
