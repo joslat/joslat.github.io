@@ -14,7 +14,7 @@ date: '2020-09-19'
 ---
    
 ## There we go...   
-This is a costly Project for me, and there is a main reason which might sound surprising for some that know me - I am not comfortable with video & public speaking. Even I have done it in the past it still scares me.   
+This is a costly Project for me, and there is a main reason which might sound surprising for some that know me - I am not comfortable with video \& public speaking. Even I have done it in the past it still scares me.   
 But, there is one way to get rid of that, right? ;) - hint: It’s called “Exposure Therapy”…   
 So this is one of the reasons to go ahead and get this done!   
 The second reason is that I have been lacking a bit a “full Azure story” all around since I started learning Azure – I am talking about a “round story” which also should be fun. 
