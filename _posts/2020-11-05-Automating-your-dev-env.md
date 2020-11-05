@@ -111,7 +111,7 @@ Official websites:
 
 5. And keep it up to date!
    As mentioned, Chocolatey manages versions and what better than a GUI to help us keep our software base updated.
-   I particularly like ChocolateyGUI again, get it with `cinst chocolateygui` and it shows our installed packages and if they have updates available.
+   I particularly like ChocolateyGUI. Again, get it with `cinst chocolateygui` and it will show the installed packages and if they have updates available.
    And it also allows to export the list of installed packages, providing a valuable help to keep our "list of favorite tools" up to date and in order.
 
 ## Concluding
