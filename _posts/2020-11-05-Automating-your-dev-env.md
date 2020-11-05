@@ -11,7 +11,7 @@ tags:
   - Version
   - Software 
 published: true
-date: '2020-11-05
+date: '2020-11-05'
 ---
 # Automating the dev environment set-up with Chocolatey & Boxstarter   
    
