@@ -27,7 +27,7 @@ Well if you are a software engineer like me, you'll appreciate a predefined inst
 Of course this does not fit all as we all have different Os and different set of favourite tools (except for HotChocolate) but this pretends to provide enough flexibility so we all can benefit and  save time through avoiding unnecesary work, automating the tedious installation and setting-up, and also afterwards not remembering if we installed or not a concrete software, component or plugin or enabled a windows feature...   
 
 So, once you have a installation script, you can evolve it over time... and is free of human-errors (except on the choice of applications)
-Essentially, save Time, Complexity and reduce cost. But, mostly, time.   
+Essentially, saving time time, reducing complexity, reducing human interaction through automation - and thus, the risk that this (human interaction) brings of introducing mistakes...    
 
 More on this on [why Chocolatey](https://chocolatey.org/why-chocolatey) and [why BoxStarter](https://boxstarter.org/WhyBoxstarter).      
    
