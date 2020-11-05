@@ -30,7 +30,7 @@ Of course this does not fit all as we all have different Os and different set of
 So, once you have a installation script, you can evolve it over time... and is free of human-errors (except on the choice of applications)
 Essentially, save Time, Complexity and reduce cost. But, mostly, time.   
 
-More on this on (why Chocolatey)[https://chocolatey.org/why-chocolatey] and (why BoxStarter)[https://boxstarter.org/WhyBoxstarter].   
+More on this on [why Chocolatey](https://chocolatey.org/why-chocolatey) and [why BoxStarter](https://boxstarter.org/WhyBoxstarter).      
    
 Official websites:  
 - [Chocolatey official site](https://chocolatey.org/)  
