@@ -115,7 +115,7 @@ Official websites:
    And it also allows to export the list of installed packages, providing a valuable help to keep our "list of favorite tools" up to date and in order.
 
 ## Concluding
-A nice recommendation from a now ex-colleague, turned out to be a valuable addition to my coding weapon array, which I am gladly sharing with you ;)
+A nice recommendation from a now ex-colleague I had the pleasure to work with, turned out to be a valuable addition to my coding weapon array, which I am gladly sharing with you ;)
 As a last recommendation, if I am motivating you to start using Chocolatey and/or BoxStarter, I'd be curious to see your scripts - if you don't mind sharing. 
 Or if you were using it already, I am still curious :)
 
