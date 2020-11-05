@@ -39,7 +39,7 @@ Official websites:
 
 ## Let's get it done!   
 1.  First things first - Install Chocolatey  
-    - First, you need to install Chocolatey. You can do that by running the scripts [found here](https://chocolatey.org/install). After you do that, you can start using Chocolatey to install applications. If you have some trouble you can follow the [more detailed instructons here](https://chocolatey.org/docs/development-environment-setup).    
+    - First, you need to install Chocolatey. You can do that by running the scripts [found here](https://chocolatey.org/install). After you do that, you can start using Chocolatey to install applications. If you have some trouble you can follow the [more detailed instructions here](https://chocolatey.org/docs/development-environment-setup).    
     - Once installed, we can check that it works by opening PowerShell and issuing a chocolatey command such as `choco install vlc`. Note we will need an elevated (aka admin enabled) powershell for this. This "semi-manual" installation will ask us if we wan to install the package, or if we allow to install all the packages, in the case it needs an additional package... this is a bit bothersome, but avoidable adding the `-y` in our command, so let's do that again. We type  `choco install vlc -y`.   
     - To update we should use upgrade instead of install, such as:  `choco upgrade vlc -y`
 
