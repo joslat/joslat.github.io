@@ -2,7 +2,6 @@
 layout: post
 title: Hello Squadron!
 subtitle: A practical introduction to Squadron
-image: /img/squadronicon.png
 bigimg: /img/SquadronBigLogo.png
 tags:
   - Development
@@ -54,25 +53,29 @@ Note: The code for [this Squadron Quickstart can be found in GitHub](https://git
 ### 1. Enable Hyper-V (In case you have windows)  
   1. Open a PowerShell console as Administrator.
   2. Run the following command:  
-```Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All```
+```Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All```   
+
   3. Otherwise, you can do this through settings, for this:
      1. Go to **'Apps and Features'**.
      2. Select **'Programs and Features'**.
      3. select **'Turn Windows Features on or off'**.
      4. Select **'Hyper-V'** and click the **OK** button.  
       ![Windows Features with Hyper-V selected](https://github.com/joslat/joslat.github.io/blob/master/img/enable_role_upd.png?raw=true)
-     5. Restart your computer (you might want to wait until Docker Desktop is installed for restarting your computer).
+     5. Restart your computer (you might want to wait until Docker Desktop is installed for restarting your computer).   
+
 ### 2. Install Docker desktop  
   1. Go to the Docker Desktop page, download and install it.
-  2. Restart your computer.
+  2. Restart your computer.  
+
 ### 3. Code it!
   1. Open Visual Studio or your favorite IDE for coding.
-  1. Create a xUnit test project with .NET Core, and name it "SquadronQuickstart"   
+  2. Create a xUnit test project with .NET Core, and name it "SquadronQuickstart"   
       ![Windows Features with Hyper-V selected](https://github.com/joslat/joslat.github.io/blob/master/img/ProjectCreationxUnitSquadronQuickStart.PNG?raw=true)
-  2. Update the xUnit & XUnit.runner.visualstudio NuGet packages to 2.4.1 or later, feel free to udpate the rest of the packages to latest and greatest (but stable) if you'd like. 
-  3. Add the "Squadron.Mongo" NuGet package. You can get the latest stable if you'd like.
+  3. Update the xUnit & XUnit.runner.visualstudio NuGet packages to 2.4.1 or later, feel free to udpate the rest of the packages to latest and greatest (but stable) if you'd like. 
+  4. Add the "Squadron.Mongo" NuGet package. You can get the latest stable if you'd like.
     ![Get Squadron.Mongo NuGet](https://github.com/joslat/joslat.github.io/blob/master/img/NuGetSquadronMongo.PNG?raw=true)  
-  4. Add the User class, a simple class for containing the data that we will store in the Mock Database server, with the following code:   
+  5. Add the User class, a simple class for containing the data that we will store in the Mock Database server, with the following code:    
+
    ```
     public class User
     {
@@ -91,7 +94,8 @@ Note: The code for [this Squadron Quickstart can be found in GitHub](https://git
         }
     }
    ```
-  5.  Add the UserRepository class, where we will implement some methods that will work with the MongoDB database, with the following code:
+  6.  Add the UserRepository class, where we will implement some methods that will work with the MongoDB database, with the following code:   
+   
    ```  
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -132,7 +136,8 @@ namespace SquadronQuickstart
     }
 }
    ```   
- 6.  Add the following code to the UnitTest1.cs class:
+ 1.  Add the following code to the UnitTest1.cs class:   
+   
    ```  
 using Xunit;
 using Squadron;
@@ -169,7 +174,7 @@ namespace SquadronQuickstart
     }
 }
    ```  
-  7.  What we just did with IClassFixture<MongoResource> and the implementation is use the Resource provided by **Squadron.Mongo** which is injected in the class constructor. The Resource in this case will be resolved by a container but can also be resolved by a cloud service. 
+  8.  What we just did with IClassFixture<MongoResource> and the implementation is use the Resource provided by **Squadron.Mongo** which is injected in the class constructor. The Resource in this case will be resolved by a container but can also be resolved by a cloud service. 
 
 
 ### 4. Run it! (More precisely, test it!)
