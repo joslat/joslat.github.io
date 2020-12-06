@@ -2,7 +2,8 @@
 layout: post
 title: Hello Squadron!
 subtitle: A practical introduction to Squadron
-bigimg: /img/SquadronBigLogo.png
+image: /img/squadronicon.png
+bigimg: /img/logo_sl_squadron_horizontal.png
 tags:
   - Development
   - Testing
