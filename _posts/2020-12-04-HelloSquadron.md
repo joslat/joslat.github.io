@@ -2,7 +2,7 @@
 layout: post
 title: Hello Squadron!
 subtitle: A practical introduction to Squadron
-image: /img/logo_sl_squadron_horizontal.png
+image: /img/squadronicon.png
 bigimg: /img/SquadronBigLogo.png
 tags:
   - Development
